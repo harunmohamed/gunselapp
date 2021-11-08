@@ -11,13 +11,13 @@ const styles = StyleSheet.create({
         paddingHorizontal: 20,
     },
     logo: {
-        width: 100,
-        height: 20,
+        width: 150,
+        height: 50,
         resizeMode: 'contain'
     },
     menu: {
-        width: 25,
-        height: 25,
+        width: 30,
+        height: 30,
         resizeMode: 'contain'
     },
 })
